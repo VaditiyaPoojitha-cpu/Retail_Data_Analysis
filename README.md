@@ -47,18 +47,6 @@ To ensure total financial accuracy, all order returns (`IsReturned = 1`) are exc
       'Order_Details'[IsReturned] = 0
   )
 
-* **Realized Profit:**
-  ```dax
-Realized Profit = 
-CALCULATE(
-    SUMX(
-        'Order_Details',
-        ('Order_Details'[Quantity] * 'Order_Details'[UnitPrice] * (1 - 'Order_Details'[DiscountRate])) 
-        - ('Order_Details'[Quantity] * 'Order_Details'[UnitCost])
-    ),
-    'Order_Details'[IsReturned] = 0
-)
-
 ---
 
 ## 📊 Dashboard Features & Insights
@@ -67,13 +55,20 @@ CALCULATE(
 KPI Metrics: Displays high-level totals — ₹728.47K Realized Revenue, ₹202.2K Realized Profit, 27.76% Profit Margin, and a 5% Return Rate[cite: 8, 10].
 Time Intelligence: Line chart displaying continuous monthly sales trajectories from 2021 to 2023.   
 Category Drivers: Identifies Meat & Poultry (33.63%) and Personal Care as top revenue-generating product groups.   
-Customer Tiers: Highlights revenue contributions across Standard, Premium, and VIP customer segments.   
+Customer Tiers: Highlights revenue contributions across Standard, Premium, and VIP customer segments.
 
-2. Profitability & Quality Analysis (Page 2)
+<img width="1061" height="600" alt="image" src="https://github.com/user-attachments/assets/44e50642-d925-4591-b31c-4f9e92c76453" />
+
+
+3. Profitability & Quality Analysis (Page 2)
 Product Matrix Table: Uses conditional data bars to evaluate profit margins against return rates across all categories.   
 Return Reason Breakdown: Categorizes returned inventory reasons (e.g., customer changed mind, damaged packaging, expired dates) to help reduce logistics losses.   
 Demographic Performance: Analyzes profitability distribution across different customer age brackets.   
-Decomposition Tree: Interactive visual path dissecting sales across category, region, and gender. 
+Decomposition Tree: Interactive visual path dissecting sales across category, region, and gender.
+
+<img width="1062" height="577" alt="image" src="https://github.com/user-attachments/assets/80837e01-f700-4a16-afc5-1d336be190c6" />
+
+---
 
 ## 📂 Project Structure
 ```text
