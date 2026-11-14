@@ -1,0 +1,1001 @@
+﻿CustomerID,Gender,Age,City,Region,CustomerSegment,SignUpDate
+CSTMR0001,Male,29,Istanbul,Marmara,Standard,13-04-2020
+CSTMR0002,Other,40,Istanbul,Marmara,Standard,08-04-2020
+CSTMR0003,Female,36,Bursa,Marmara,Premium,14-08-2022
+CSTMR0004,Male,18,Istanbul,Marmara,Premium,26-03-2022
+CSTMR0005,Male,43,Izmir,Aegean,Premium,04-04-2021
+CSTMR0006,Other,49,Istanbul,Marmara,Standard,07-02-2020
+CSTMR0007,Male,36,Bursa,Marmara,Premium,10-10-2020
+CSTMR0008,Female,48,Istanbul,Marmara,Standard,26-03-2022
+CSTMR0009,Female,25,Antalya,Mediterranean,Premium,21-04-2021
+CSTMR0010,Male,43,Ankara,Central Anatolia,Standard,26-11-2022
+CSTMR0011,Female,32,Bursa,Marmara,Standard,30-03-2023
+CSTMR0012,Male,47,Izmir,Aegean,Standard,19-07-2021
+CSTMR0013,Female,40,Trabzon,Black Sea,Standard,19-08-2022
+CSTMR0014,Male,28,Istanbul,Marmara,Premium,01-02-2023
+CSTMR0015,Male,21,Ankara,Central Anatolia,Standard,09-07-2022
+CSTMR0016,Male,26,Istanbul,Marmara,Premium,05-02-2020
+CSTMR0017,Female,49,Eskisehir,Central Anatolia,Standard,15-04-2021
+CSTMR0018,Female,45,Bursa,Marmara,Standard,03-05-2022
+CSTMR0019,Male,33,Istanbul,Marmara,Standard,13-12-2022
+CSTMR0020,Other,45,Ankara,Central Anatolia,Standard,30-09-2022
+CSTMR0021,Male,33,Bursa,Marmara,Premium,16-05-2022
+CSTMR0022,Male,43,Adana,Mediterranean,Standard,27-09-2021
+CSTMR0023,Female,22,Ankara,Central Anatolia,Standard,10-01-2022
+CSTMR0024,Female,18,Bursa,Marmara,VIP,09-10-2022
+CSTMR0025,Male,19,Istanbul,Marmara,Premium,02-05-2021
+CSTMR0026,Male,33,Kocaeli,Marmara,Premium,04-12-2021
+CSTMR0027,Female,19,Bursa,Marmara,Standard,23-09-2022
+CSTMR0028,Female,32,Istanbul,Marmara,Premium,06-12-2022
+CSTMR0029,Male,35,Istanbul,Marmara,Standard,07-03-2021
+CSTMR0030,Female,60,Bursa,Marmara,Premium,22-12-2020
+CSTMR0031,Male,32,Bursa,Marmara,Standard,31-01-2022
+CSTMR0032,Male,39,Kocaeli,Marmara,VIP,30-05-2021
+CSTMR0033,Female,52,Izmir,Aegean,Premium,14-01-2021
+CSTMR0034,Male,44,Ankara,Central Anatolia,Standard,06-04-2023
+CSTMR0035,Female,32,Istanbul,Marmara,Premium,27-08-2022
+CSTMR0036,Male,40,Istanbul,Marmara,Premium,05-04-2022
+CSTMR0037,Male,42,Ankara,Central Anatolia,Standard,30-01-2022
+CSTMR0038,Other,44,Izmir,Aegean,Standard,08-01-2022
+CSTMR0039,Female,53,Istanbul,Marmara,Premium,06-02-2020
+CSTMR0040,Female,30,Aydin,Aegean,VIP,16-05-2022
+CSTMR0041,Female,53,Istanbul,Marmara,Standard,29-11-2021
+CSTMR0042,Female,38,Antalya,Mediterranean,VIP,16-03-2020
+CSTMR0043,Female,35,Kocaeli,Marmara,Standard,23-05-2020
+CSTMR0044,Female,62,Istanbul,Marmara,VIP,09-06-2022
+CSTMR0045,Other,33,Antalya,Mediterranean,Standard,23-07-2022
+CSTMR0046,Female,40,Aydin,Aegean,Standard,02-01-2022
+CSTMR0047,Male,42,Izmir,Aegean,Standard,12-04-2023
+CSTMR0048,Female,31,Ankara,Central Anatolia,Standard,25-09-2021
+CSTMR0049,Female,43,Ankara,Central Anatolia,VIP,14-05-2021
+CSTMR0050,Male,20,Izmir,Aegean,Standard,29-12-2022
+CSTMR0051,Female,55,Istanbul,Marmara,Standard,08-02-2020
+CSTMR0052,Male,27,Bursa,Marmara,Premium,17-12-2022
+CSTMR0053,Other,44,Izmir,Aegean,Standard,13-12-2020
+CSTMR0054,Male,46,Istanbul,Marmara,Standard,03-04-2022
+CSTMR0055,Male,18,Istanbul,Marmara,Standard,21-07-2020
+CSTMR0056,Male,45,Izmir,Aegean,Premium,16-02-2020
+CSTMR0057,Male,63,Izmir,Aegean,VIP,17-10-2021
+CSTMR0058,Male,28,Antalya,Mediterranean,Standard,22-02-2022
+CSTMR0059,Female,20,Istanbul,Marmara,Standard,30-03-2020
+CSTMR0060,Other,47,Istanbul,Marmara,VIP,18-05-2022
+CSTMR0061,Male,42,Istanbul,Marmara,Standard,05-04-2021
+CSTMR0062,Male,60,Eskisehir,Central Anatolia,Premium,24-01-2021
+CSTMR0063,Female,22,Antalya,Mediterranean,Standard,26-05-2022
+CSTMR0064,Other,59,Ankara,Central Anatolia,Standard,25-05-2020
+CSTMR0065,Male,18,Antalya,Mediterranean,Standard,05-03-2022
+CSTMR0066,Female,54,Istanbul,Marmara,Standard,25-05-2021
+CSTMR0067,Male,41,Trabzon,Black Sea,Premium,09-02-2022
+CSTMR0068,Female,41,Antalya,Mediterranean,Standard,23-03-2020
+CSTMR0069,Female,21,Izmir,Aegean,Standard,03-02-2020
+CSTMR0070,Female,44,Izmir,Aegean,Premium,04-11-2021
+CSTMR0071,Male,49,Antalya,Mediterranean,Standard,16-09-2022
+CSTMR0072,Male,31,Istanbul,Marmara,Premium,07-07-2022
+CSTMR0073,Other,26,Istanbul,Marmara,Premium,02-02-2022
+CSTMR0074,Female,46,Izmir,Aegean,Premium,08-05-2022
+CSTMR0075,Male,18,Eskisehir,Central Anatolia,Premium,25-06-2021
+CSTMR0076,Female,61,Antalya,Mediterranean,Premium,18-06-2022
+CSTMR0077,Male,39,Istanbul,Marmara,Standard,05-05-2020
+CSTMR0078,Female,32,Istanbul,Marmara,Standard,30-01-2022
+CSTMR0079,Female,57,Istanbul,Marmara,Premium,18-06-2022
+CSTMR0080,Other,28,Kocaeli,Marmara,Premium,02-04-2020
+CSTMR0081,Female,45,Istanbul,Marmara,Standard,12-11-2021
+CSTMR0082,Female,31,Istanbul,Marmara,Premium,20-08-2020
+CSTMR0083,Male,33,Istanbul,Marmara,Premium,04-03-2022
+CSTMR0084,Female,28,Istanbul,Marmara,Standard,15-12-2020
+CSTMR0085,Female,40,Adana,Mediterranean,Standard,29-10-2020
+CSTMR0086,Female,28,Izmir,Aegean,Premium,18-03-2020
+CSTMR0087,Male,44,Kocaeli,Marmara,Standard,16-03-2022
+CSTMR0088,Female,41,Istanbul,Marmara,Standard,29-04-2021
+CSTMR0089,Male,19,Istanbul,Marmara,Premium,25-01-2020
+CSTMR0090,Male,40,Kocaeli,Marmara,Premium,20-04-2020
+CSTMR0091,Female,63,Izmir,Aegean,Premium,28-02-2021
+CSTMR0092,Other,54,Izmir,Aegean,Premium,10-11-2020
+CSTMR0093,Female,33,Istanbul,Marmara,Standard,15-09-2021
+CSTMR0094,Male,35,Istanbul,Marmara,Standard,02-04-2022
+CSTMR0095,Female,47,Istanbul,Marmara,Standard,27-04-2020
+CSTMR0096,Male,39,Izmir,Aegean,Standard,12-07-2020
+CSTMR0097,Male,49,Istanbul,Marmara,Standard,15-02-2023
+CSTMR0098,Female,28,Aydin,Aegean,Premium,19-05-2020
+CSTMR0099,Male,45,Istanbul,Marmara,Standard,24-04-2022
+CSTMR0100,Male,18,Istanbul,Marmara,Standard,10-01-2020
+CSTMR0101,Male,45,Istanbul,Marmara,Standard,24-11-2020
+CSTMR0102,Male,25,Kocaeli,Marmara,Premium,23-01-2023
+CSTMR0103,Male,40,Istanbul,Marmara,Standard,27-05-2021
+CSTMR0104,Male,39,Ankara,Central Anatolia,Premium,22-05-2022
+CSTMR0105,Male,32,Istanbul,Marmara,Standard,18-03-2020
+CSTMR0106,Male,43,Ankara,Central Anatolia,Standard,29-03-2020
+CSTMR0107,Female,44,Izmir,Aegean,Standard,12-11-2022
+CSTMR0108,Female,41,Bursa,Marmara,Standard,03-10-2022
+CSTMR0109,Male,40,Istanbul,Marmara,Standard,01-08-2021
+CSTMR0110,Male,47,Istanbul,Marmara,Standard,04-11-2022
+CSTMR0111,Male,43,Trabzon,Black Sea,Premium,25-01-2023
+CSTMR0112,Male,56,Istanbul,Marmara,Premium,14-07-2020
+CSTMR0113,Female,33,Ankara,Central Anatolia,Standard,28-03-2023
+CSTMR0114,Male,47,Izmir,Aegean,Standard,15-01-2020
+CSTMR0115,Male,47,Aydin,Aegean,Standard,04-04-2020
+CSTMR0116,Male,26,Aydin,Aegean,VIP,09-03-2020
+CSTMR0117,Male,23,Bursa,Marmara,Standard,11-12-2020
+CSTMR0118,Female,29,Izmir,Aegean,Standard,15-08-2022
+CSTMR0119,Male,45,Istanbul,Marmara,VIP,04-10-2022
+CSTMR0120,Male,56,Aydin,Aegean,Standard,03-02-2023
+CSTMR0121,Male,30,Istanbul,Marmara,Premium,09-09-2022
+CSTMR0122,Male,32,Kocaeli,Marmara,Standard,24-07-2022
+CSTMR0123,Female,28,Ankara,Central Anatolia,Standard,25-07-2022
+CSTMR0124,Female,45,Ankara,Central Anatolia,Standard,20-01-2021
+CSTMR0125,Female,39,Istanbul,Marmara,Standard,01-02-2022
+CSTMR0126,Female,47,Kocaeli,Marmara,Standard,10-12-2021
+CSTMR0127,Female,29,Istanbul,Marmara,VIP,08-12-2022
+CSTMR0128,Female,48,Istanbul,Marmara,VIP,07-12-2020
+CSTMR0129,Female,68,Istanbul,Marmara,Premium,02-08-2020
+CSTMR0130,Female,38,Istanbul,Marmara,Standard,31-10-2021
+CSTMR0131,Male,68,Istanbul,Marmara,Standard,12-08-2021
+CSTMR0132,Female,24,Kocaeli,Marmara,Standard,10-02-2023
+CSTMR0133,Female,33,Ankara,Central Anatolia,Premium,10-03-2022
+CSTMR0134,Other,33,Kocaeli,Marmara,Premium,27-03-2020
+CSTMR0135,Male,34,Izmir,Aegean,Standard,18-03-2021
+CSTMR0136,Male,50,Istanbul,Marmara,Standard,01-08-2021
+CSTMR0137,Male,48,Adana,Mediterranean,VIP,17-02-2023
+CSTMR0138,Female,45,Antalya,Mediterranean,Standard,30-06-2020
+CSTMR0139,Male,18,Eskisehir,Central Anatolia,Standard,25-03-2022
+CSTMR0140,Male,59,Ankara,Central Anatolia,Standard,07-12-2021
+CSTMR0141,Female,22,Izmir,Aegean,VIP,12-12-2022
+CSTMR0142,Male,59,Ankara,Central Anatolia,Standard,15-08-2021
+CSTMR0143,Male,39,Bursa,Marmara,Premium,12-02-2023
+CSTMR0144,Other,39,Izmir,Aegean,Standard,08-05-2021
+CSTMR0145,Male,31,Istanbul,Marmara,Premium,15-03-2023
+CSTMR0146,Male,28,Kocaeli,Marmara,Premium,03-02-2020
+CSTMR0147,Male,32,Istanbul,Marmara,Premium,27-01-2020
+CSTMR0148,Male,44,Izmir,Aegean,Standard,24-09-2020
+CSTMR0149,Male,52,Bursa,Marmara,Standard,02-12-2021
+CSTMR0150,Female,41,Istanbul,Marmara,Premium,29-03-2022
+CSTMR0151,Male,47,Aydin,Aegean,Standard,13-01-2022
+CSTMR0152,Female,36,Izmir,Aegean,Standard,27-01-2022
+CSTMR0153,Male,41,Istanbul,Marmara,Standard,15-08-2022
+CSTMR0154,Female,18,Izmir,Aegean,Premium,13-03-2020
+CSTMR0155,Female,61,Bursa,Marmara,Standard,28-11-2022
+CSTMR0156,Male,37,Istanbul,Marmara,Standard,11-04-2020
+CSTMR0157,Male,22,Kocaeli,Marmara,Premium,03-08-2020
+CSTMR0158,Male,35,Ankara,Central Anatolia,VIP,08-01-2021
+CSTMR0159,Male,41,Izmir,Aegean,Standard,03-05-2021
+CSTMR0160,Other,46,Aydin,Aegean,Standard,11-12-2021
+CSTMR0161,Female,18,Istanbul,Marmara,Standard,16-05-2020
+CSTMR0162,Male,34,Bursa,Marmara,Standard,16-08-2021
+CSTMR0163,Female,54,Izmir,Aegean,Standard,28-03-2023
+CSTMR0164,Male,18,Kocaeli,Marmara,Standard,10-05-2020
+CSTMR0165,Male,34,Istanbul,Marmara,Premium,11-05-2021
+CSTMR0166,Male,39,Aydin,Aegean,Premium,30-03-2023
+CSTMR0167,Female,38,Antalya,Mediterranean,Standard,28-11-2022
+CSTMR0168,Female,50,Istanbul,Marmara,Premium,13-11-2020
+CSTMR0169,Male,32,Bursa,Marmara,Standard,23-01-2021
+CSTMR0170,Female,55,Bursa,Marmara,Standard,10-01-2021
+CSTMR0171,Male,18,Izmir,Aegean,Premium,09-03-2023
+CSTMR0172,Other,23,Istanbul,Marmara,Premium,10-12-2021
+CSTMR0173,Female,47,Adana,Mediterranean,Standard,17-07-2021
+CSTMR0174,Male,40,Ankara,Central Anatolia,Standard,03-06-2022
+CSTMR0175,Male,36,Istanbul,Marmara,Standard,20-05-2021
+CSTMR0176,Female,31,Istanbul,Marmara,Standard,06-12-2022
+CSTMR0177,Male,45,Istanbul,Marmara,Premium,22-02-2021
+CSTMR0178,Female,67,Istanbul,Marmara,Premium,08-06-2020
+CSTMR0179,Male,18,Istanbul,Marmara,Standard,09-07-2022
+CSTMR0180,Female,27,Istanbul,Marmara,Standard,12-08-2022
+CSTMR0181,Male,38,Antalya,Mediterranean,VIP,30-08-2022
+CSTMR0182,Male,30,Istanbul,Marmara,VIP,11-08-2020
+CSTMR0183,Male,60,Kocaeli,Marmara,Premium,03-08-2020
+CSTMR0184,Male,47,Ankara,Central Anatolia,Premium,26-03-2022
+CSTMR0185,Female,50,Izmir,Aegean,Premium,25-02-2021
+CSTMR0186,Female,52,Antalya,Mediterranean,Premium,30-01-2022
+CSTMR0187,Male,33,Ankara,Central Anatolia,Premium,22-03-2020
+CSTMR0188,Female,27,Kocaeli,Marmara,Standard,21-10-2020
+CSTMR0189,Male,45,Istanbul,Marmara,Standard,15-05-2022
+CSTMR0190,Male,18,Ankara,Central Anatolia,Standard,11-04-2021
+CSTMR0191,Female,36,Izmir,Aegean,VIP,06-02-2020
+CSTMR0192,Female,41,Izmir,Aegean,Premium,31-12-2021
+CSTMR0193,Female,35,Istanbul,Marmara,Premium,17-02-2023
+CSTMR0194,Female,60,Adana,Mediterranean,Premium,11-10-2020
+CSTMR0195,Female,18,Istanbul,Marmara,Standard,22-11-2022
+CSTMR0196,Female,54,Ankara,Central Anatolia,Standard,23-07-2021
+CSTMR0197,Male,46,Istanbul,Marmara,Premium,08-02-2020
+CSTMR0198,Male,37,Istanbul,Marmara,Standard,27-02-2023
+CSTMR0199,Female,43,Ankara,Central Anatolia,Standard,24-03-2020
+CSTMR0200,Male,40,Adana,Mediterranean,Standard,23-07-2021
+CSTMR0201,Male,22,Ankara,Central Anatolia,Standard,26-07-2020
+CSTMR0202,Male,55,Istanbul,Marmara,Premium,03-06-2021
+CSTMR0203,Male,45,Istanbul,Marmara,VIP,23-11-2021
+CSTMR0204,Male,53,Istanbul,Marmara,Standard,10-06-2021
+CSTMR0205,Female,42,Bursa,Marmara,Premium,13-10-2022
+CSTMR0206,Male,28,Istanbul,Marmara,Standard,20-01-2021
+CSTMR0207,Female,34,Istanbul,Marmara,Premium,03-12-2020
+CSTMR0208,Male,37,Istanbul,Marmara,Premium,29-12-2021
+CSTMR0209,Female,37,Istanbul,Marmara,Standard,04-02-2021
+CSTMR0210,Female,31,Istanbul,Marmara,Standard,14-01-2023
+CSTMR0211,Female,38,Eskisehir,Central Anatolia,Standard,11-08-2021
+CSTMR0212,Female,28,Istanbul,Marmara,Premium,20-05-2022
+CSTMR0213,Female,42,Istanbul,Marmara,VIP,26-09-2021
+CSTMR0214,Male,39,Istanbul,Marmara,Premium,06-07-2021
+CSTMR0215,Male,48,Istanbul,Marmara,Premium,07-09-2020
+CSTMR0216,Female,45,Izmir,Aegean,Premium,22-01-2020
+CSTMR0217,Male,58,Istanbul,Marmara,Premium,10-10-2022
+CSTMR0218,Female,40,Kocaeli,Marmara,Standard,01-05-2020
+CSTMR0219,Male,44,Bursa,Marmara,Standard,14-10-2020
+CSTMR0220,Female,42,Aydin,Aegean,Standard,23-10-2021
+CSTMR0221,Female,27,Bursa,Marmara,Standard,20-03-2021
+CSTMR0222,Other,37,Istanbul,Marmara,Standard,11-05-2022
+CSTMR0223,Male,42,Aydin,Aegean,Standard,15-06-2021
+CSTMR0224,Female,50,Kocaeli,Marmara,Standard,23-02-2021
+CSTMR0225,Female,56,Ankara,Central Anatolia,Standard,21-10-2020
+CSTMR0226,Male,57,Eskisehir,Central Anatolia,Premium,13-06-2021
+CSTMR0227,Female,42,Eskisehir,Central Anatolia,Standard,28-07-2022
+CSTMR0228,Female,29,Bursa,Marmara,Standard,01-10-2022
+CSTMR0229,Male,57,Izmir,Aegean,Standard,12-01-2023
+CSTMR0230,Female,18,Bursa,Marmara,Premium,28-01-2020
+CSTMR0231,Female,51,Istanbul,Marmara,Standard,27-10-2020
+CSTMR0232,Female,29,Eskisehir,Central Anatolia,Standard,21-09-2021
+CSTMR0233,Male,49,Bursa,Marmara,Standard,29-08-2022
+CSTMR0234,Male,32,Istanbul,Marmara,Standard,18-02-2023
+CSTMR0235,Male,55,Aydin,Aegean,Standard,04-06-2020
+CSTMR0236,Female,40,Kocaeli,Marmara,Standard,29-11-2020
+CSTMR0237,Female,36,Antalya,Mediterranean,Standard,16-04-2022
+CSTMR0238,Other,25,Izmir,Aegean,VIP,02-10-2020
+CSTMR0239,Male,48,Bursa,Marmara,Standard,09-05-2021
+CSTMR0240,Female,42,Kocaeli,Marmara,Standard,30-05-2020
+CSTMR0241,Male,26,Izmir,Aegean,Standard,08-05-2020
+CSTMR0242,Female,45,Istanbul,Marmara,Premium,26-03-2020
+CSTMR0243,Male,37,Istanbul,Marmara,Premium,14-03-2023
+CSTMR0244,Male,40,Ankara,Central Anatolia,Premium,13-09-2022
+CSTMR0245,Male,25,Izmir,Aegean,Standard,12-12-2022
+CSTMR0246,Male,46,Istanbul,Marmara,Standard,06-10-2022
+CSTMR0247,Male,33,Istanbul,Marmara,Standard,28-08-2022
+CSTMR0248,Male,40,Istanbul,Marmara,Premium,19-01-2020
+CSTMR0249,Male,34,Ankara,Central Anatolia,Standard,01-04-2022
+CSTMR0250,Male,54,Izmir,Aegean,Standard,11-12-2021
+CSTMR0251,Female,64,Kocaeli,Marmara,Standard,17-10-2020
+CSTMR0252,Male,51,Izmir,Aegean,Standard,31-08-2022
+CSTMR0253,Male,49,Kocaeli,Marmara,Premium,29-03-2021
+CSTMR0254,Female,34,Istanbul,Marmara,Standard,02-03-2023
+CSTMR0255,Male,65,Ankara,Central Anatolia,Standard,12-05-2021
+CSTMR0256,Female,46,Ankara,Central Anatolia,Premium,10-09-2021
+CSTMR0257,Male,34,Antalya,Mediterranean,Standard,19-11-2020
+CSTMR0258,Female,42,Istanbul,Marmara,Standard,21-08-2022
+CSTMR0259,Female,49,Kocaeli,Marmara,Premium,13-03-2023
+CSTMR0260,Female,30,Bursa,Marmara,Standard,11-08-2021
+CSTMR0261,Female,44,Istanbul,Marmara,Standard,27-06-2022
+CSTMR0262,Female,26,Ankara,Central Anatolia,VIP,20-03-2021
+CSTMR0263,Male,54,Izmir,Aegean,Premium,12-07-2021
+CSTMR0264,Male,37,Ankara,Central Anatolia,Premium,26-12-2021
+CSTMR0265,Male,25,Bursa,Marmara,Standard,12-11-2021
+CSTMR0266,Male,43,Istanbul,Marmara,Premium,19-02-2020
+CSTMR0267,Female,50,Ankara,Central Anatolia,Standard,19-09-2022
+CSTMR0268,Male,44,Istanbul,Marmara,Standard,05-02-2023
+CSTMR0269,Female,52,Kocaeli,Marmara,Premium,11-10-2021
+CSTMR0270,Other,57,Istanbul,Marmara,Standard,09-07-2022
+CSTMR0271,Male,28,Bursa,Marmara,Standard,05-04-2023
+CSTMR0272,Female,57,Istanbul,Marmara,Premium,28-10-2020
+CSTMR0273,Male,18,Istanbul,Marmara,Standard,13-01-2022
+CSTMR0274,Female,44,Bursa,Marmara,Standard,29-12-2022
+CSTMR0275,Male,28,Ankara,Central Anatolia,Premium,08-06-2020
+CSTMR0276,Female,38,Izmir,Aegean,Standard,10-10-2022
+CSTMR0277,Female,20,Trabzon,Black Sea,Standard,25-04-2020
+CSTMR0278,Male,22,Antalya,Mediterranean,Standard,13-10-2020
+CSTMR0279,Female,19,Ankara,Central Anatolia,Premium,01-11-2022
+CSTMR0280,Female,18,Ankara,Central Anatolia,VIP,24-08-2020
+CSTMR0281,Male,28,Izmir,Aegean,Standard,12-01-2023
+CSTMR0282,Male,47,Ankara,Central Anatolia,Standard,30-03-2023
+CSTMR0283,Female,34,Istanbul,Marmara,VIP,26-12-2020
+CSTMR0284,Female,33,Izmir,Aegean,Standard,14-04-2022
+CSTMR0285,Other,42,Eskisehir,Central Anatolia,Premium,22-05-2020
+CSTMR0286,Female,67,Istanbul,Marmara,Premium,14-07-2021
+CSTMR0287,Female,49,Ankara,Central Anatolia,Standard,13-05-2020
+CSTMR0288,Female,34,Ankara,Central Anatolia,Standard,02-02-2021
+CSTMR0289,Male,25,Adana,Mediterranean,Standard,22-09-2020
+CSTMR0290,Male,53,Ankara,Central Anatolia,Standard,12-06-2020
+CSTMR0291,Female,41,Ankara,Central Anatolia,Standard,14-02-2023
+CSTMR0292,Other,36,Kocaeli,Marmara,Standard,07-01-2023
+CSTMR0293,Male,37,Istanbul,Marmara,Standard,25-04-2022
+CSTMR0294,Female,43,Ankara,Central Anatolia,Premium,02-11-2021
+CSTMR0295,Female,26,Istanbul,Marmara,Standard,16-02-2022
+CSTMR0296,Female,43,Ankara,Central Anatolia,Standard,15-12-2022
+CSTMR0297,Female,29,Istanbul,Marmara,Standard,03-02-2021
+CSTMR0298,Female,48,Trabzon,Black Sea,Standard,23-02-2022
+CSTMR0299,Male,43,Ankara,Central Anatolia,Standard,22-12-2022
+CSTMR0300,Female,25,Izmir,Aegean,Standard,27-04-2021
+CSTMR0301,Female,44,Ankara,Central Anatolia,Standard,24-05-2021
+CSTMR0302,Female,47,Bursa,Marmara,Premium,11-01-2022
+CSTMR0303,Male,39,Istanbul,Marmara,Premium,31-07-2020
+CSTMR0304,Female,24,Istanbul,Marmara,Standard,21-06-2020
+CSTMR0305,Female,47,Kocaeli,Marmara,Standard,01-07-2020
+CSTMR0306,Male,22,Ankara,Central Anatolia,Standard,15-09-2021
+CSTMR0307,Male,21,Bursa,Marmara,Standard,21-01-2020
+CSTMR0308,Female,18,Istanbul,Marmara,Premium,17-02-2023
+CSTMR0309,Female,18,Ankara,Central Anatolia,Premium,19-08-2020
+CSTMR0310,Male,33,Izmir,Aegean,Premium,26-12-2021
+CSTMR0311,Male,38,Istanbul,Marmara,Premium,28-07-2022
+CSTMR0312,Male,28,Istanbul,Marmara,Standard,27-03-2020
+CSTMR0313,Male,21,Istanbul,Marmara,Premium,02-02-2021
+CSTMR0314,Female,26,Bursa,Marmara,Premium,17-03-2021
+CSTMR0315,Male,28,Istanbul,Marmara,Premium,18-09-2022
+CSTMR0316,Male,48,Ankara,Central Anatolia,Standard,25-12-2020
+CSTMR0317,Male,34,Izmir,Aegean,Standard,17-06-2020
+CSTMR0318,Female,34,Eskisehir,Central Anatolia,Standard,28-05-2020
+CSTMR0319,Female,37,Antalya,Mediterranean,Standard,10-06-2022
+CSTMR0320,Female,25,Istanbul,Marmara,Standard,01-07-2020
+CSTMR0321,Male,18,Istanbul,Marmara,Premium,17-02-2021
+CSTMR0322,Male,49,Kocaeli,Marmara,Standard,22-04-2020
+CSTMR0323,Female,41,Ankara,Central Anatolia,Premium,31-07-2022
+CSTMR0324,Male,41,Bursa,Marmara,Premium,28-10-2020
+CSTMR0325,Female,25,Kocaeli,Marmara,Standard,22-08-2020
+CSTMR0326,Female,44,Aydin,Aegean,Premium,08-02-2022
+CSTMR0327,Female,31,Kocaeli,Marmara,Standard,28-03-2020
+CSTMR0328,Male,45,Ankara,Central Anatolia,Standard,26-11-2021
+CSTMR0329,Female,50,Bursa,Marmara,Standard,15-05-2020
+CSTMR0330,Other,40,Istanbul,Marmara,Standard,29-05-2021
+CSTMR0331,Male,53,Istanbul,Marmara,Premium,30-10-2022
+CSTMR0332,Female,32,Izmir,Aegean,Premium,25-12-2022
+CSTMR0333,Male,36,Ankara,Central Anatolia,Standard,19-07-2021
+CSTMR0334,Female,38,Ankara,Central Anatolia,Standard,09-11-2022
+CSTMR0335,Female,46,Trabzon,Black Sea,Premium,11-05-2020
+CSTMR0336,Male,33,Ankara,Central Anatolia,Standard,10-10-2022
+CSTMR0337,Female,58,Istanbul,Marmara,Standard,07-02-2020
+CSTMR0338,Male,28,Bursa,Marmara,Standard,29-09-2020
+CSTMR0339,Male,31,Izmir,Aegean,Standard,14-12-2022
+CSTMR0340,Male,40,Kocaeli,Marmara,Standard,16-08-2021
+CSTMR0341,Female,51,Istanbul,Marmara,Premium,25-10-2021
+CSTMR0342,Male,20,Aydin,Aegean,Standard,15-07-2022
+CSTMR0343,Female,27,Aydin,Aegean,Standard,25-04-2021
+CSTMR0344,Male,34,Izmir,Aegean,Premium,01-02-2022
+CSTMR0345,Male,27,Izmir,Aegean,Standard,21-10-2021
+CSTMR0346,Male,31,Bursa,Marmara,Premium,18-03-2020
+CSTMR0347,Male,42,Istanbul,Marmara,Premium,10-09-2020
+CSTMR0348,Male,38,Antalya,Mediterranean,Standard,16-07-2021
+CSTMR0349,Female,50,Ankara,Central Anatolia,VIP,18-02-2020
+CSTMR0350,Male,35,Aydin,Aegean,Standard,29-09-2021
+CSTMR0351,Male,57,Ankara,Central Anatolia,Standard,16-11-2021
+CSTMR0352,Male,32,Ankara,Central Anatolia,Standard,11-09-2022
+CSTMR0353,Female,36,Istanbul,Marmara,Premium,11-06-2020
+CSTMR0354,Female,35,Adana,Mediterranean,Standard,23-07-2020
+CSTMR0355,Female,50,Istanbul,Marmara,Standard,20-11-2021
+CSTMR0356,Male,62,Eskisehir,Central Anatolia,VIP,02-11-2021
+CSTMR0357,Male,46,Istanbul,Marmara,Premium,06-05-2021
+CSTMR0358,Female,39,Kocaeli,Marmara,Premium,21-01-2020
+CSTMR0359,Male,41,Bursa,Marmara,Standard,02-05-2022
+CSTMR0360,Female,21,Istanbul,Marmara,Standard,20-09-2021
+CSTMR0361,Male,40,Kocaeli,Marmara,Premium,26-07-2021
+CSTMR0362,Male,51,Istanbul,Marmara,Standard,25-06-2020
+CSTMR0363,Male,25,Istanbul,Marmara,Premium,22-01-2020
+CSTMR0364,Male,18,Bursa,Marmara,Standard,10-03-2021
+CSTMR0365,Female,38,Ankara,Central Anatolia,Premium,02-09-2021
+CSTMR0366,Male,29,Istanbul,Marmara,Standard,25-01-2021
+CSTMR0367,Male,47,Istanbul,Marmara,Premium,13-01-2022
+CSTMR0368,Male,47,Ankara,Central Anatolia,Premium,27-09-2022
+CSTMR0369,Male,59,Istanbul,Marmara,Standard,03-12-2022
+CSTMR0370,Female,62,Istanbul,Marmara,Standard,23-08-2021
+CSTMR0371,Female,21,Istanbul,Marmara,Premium,08-01-2020
+CSTMR0372,Male,34,Izmir,Aegean,Standard,31-12-2022
+CSTMR0373,Male,38,Istanbul,Marmara,Standard,12-04-2021
+CSTMR0374,Male,48,Izmir,Aegean,Standard,26-05-2022
+CSTMR0375,Female,31,Eskisehir,Central Anatolia,Standard,18-11-2021
+CSTMR0376,Female,31,Izmir,Aegean,Premium,27-06-2021
+CSTMR0377,Female,25,Aydin,Aegean,Premium,31-03-2023
+CSTMR0378,Female,37,Bursa,Marmara,Premium,03-09-2020
+CSTMR0379,Female,31,Bursa,Marmara,Premium,14-08-2020
+CSTMR0380,Male,44,Ankara,Central Anatolia,Standard,07-10-2021
+CSTMR0381,Female,53,Bursa,Marmara,Premium,25-12-2021
+CSTMR0382,Female,36,Ankara,Central Anatolia,Standard,12-09-2022
+CSTMR0383,Female,40,Bursa,Marmara,Standard,29-06-2021
+CSTMR0384,Female,32,Ankara,Central Anatolia,Standard,10-08-2022
+CSTMR0385,Female,47,Ankara,Central Anatolia,Premium,19-07-2022
+CSTMR0386,Male,45,Istanbul,Marmara,Standard,27-04-2021
+CSTMR0387,Female,41,Istanbul,Marmara,Standard,25-08-2022
+CSTMR0388,Male,34,Istanbul,Marmara,Standard,17-03-2021
+CSTMR0389,Female,50,Antalya,Mediterranean,Premium,04-04-2021
+CSTMR0390,Male,22,Istanbul,Marmara,Premium,28-07-2020
+CSTMR0391,Male,19,Istanbul,Marmara,Standard,15-05-2021
+CSTMR0392,Female,20,Adana,Mediterranean,Standard,18-08-2021
+CSTMR0393,Male,42,Adana,Mediterranean,Premium,17-06-2022
+CSTMR0394,Male,29,Istanbul,Marmara,Premium,22-12-2022
+CSTMR0395,Male,64,Bursa,Marmara,Standard,17-02-2023
+CSTMR0396,Female,44,Istanbul,Marmara,Standard,12-10-2020
+CSTMR0397,Female,47,Istanbul,Marmara,Premium,27-09-2022
+CSTMR0398,Male,31,Istanbul,Marmara,Premium,08-03-2020
+CSTMR0399,Male,23,Adana,Mediterranean,Premium,25-11-2021
+CSTMR0400,Male,22,Istanbul,Marmara,VIP,24-09-2020
+CSTMR0401,Female,38,Istanbul,Marmara,VIP,09-10-2022
+CSTMR0402,Female,51,Izmir,Aegean,VIP,03-09-2022
+CSTMR0403,Female,24,Istanbul,Marmara,Premium,30-03-2022
+CSTMR0404,Male,36,Izmir,Aegean,Standard,19-05-2021
+CSTMR0405,Male,26,Bursa,Marmara,VIP,01-08-2021
+CSTMR0406,Other,38,Izmir,Aegean,Standard,08-08-2022
+CSTMR0407,Female,48,Istanbul,Marmara,Standard,26-07-2021
+CSTMR0408,Other,35,Istanbul,Marmara,Standard,27-12-2020
+CSTMR0409,Female,21,Izmir,Aegean,Standard,18-01-2022
+CSTMR0410,Female,37,Kocaeli,Marmara,Standard,18-02-2020
+CSTMR0411,Female,51,Izmir,Aegean,Standard,13-11-2020
+CSTMR0412,Male,31,Istanbul,Marmara,Standard,27-03-2022
+CSTMR0413,Male,39,Ankara,Central Anatolia,Standard,31-01-2021
+CSTMR0414,Female,18,Bursa,Marmara,Standard,06-05-2020
+CSTMR0415,Male,18,Eskisehir,Central Anatolia,Standard,06-02-2023
+CSTMR0416,Male,18,Ankara,Central Anatolia,Premium,12-04-2020
+CSTMR0417,Female,47,Istanbul,Marmara,Premium,29-04-2022
+CSTMR0418,Female,44,Ankara,Central Anatolia,Standard,23-02-2021
+CSTMR0419,Male,56,Istanbul,Marmara,Standard,16-10-2021
+CSTMR0420,Female,32,Izmir,Aegean,Standard,20-07-2020
+CSTMR0421,Male,40,Ankara,Central Anatolia,Premium,12-01-2023
+CSTMR0422,Male,47,Kocaeli,Marmara,Standard,21-01-2021
+CSTMR0423,Male,37,Istanbul,Marmara,Premium,12-09-2022
+CSTMR0424,Male,35,Istanbul,Marmara,Premium,09-07-2022
+CSTMR0425,Female,43,Bursa,Marmara,Standard,02-09-2021
+CSTMR0426,Female,48,Ankara,Central Anatolia,Premium,19-11-2022
+CSTMR0427,Female,41,Eskisehir,Central Anatolia,Premium,22-12-2022
+CSTMR0428,Male,41,Istanbul,Marmara,Premium,15-02-2023
+CSTMR0429,Male,24,Bursa,Marmara,Standard,24-02-2021
+CSTMR0430,Male,33,Istanbul,Marmara,Standard,02-07-2022
+CSTMR0431,Male,36,Istanbul,Marmara,Standard,29-07-2021
+CSTMR0432,Female,29,Istanbul,Marmara,Standard,12-04-2022
+CSTMR0433,Female,38,Istanbul,Marmara,VIP,24-03-2023
+CSTMR0434,Male,43,Bursa,Marmara,Standard,18-09-2020
+CSTMR0435,Female,44,Istanbul,Marmara,Standard,18-06-2020
+CSTMR0436,Male,34,Bursa,Marmara,VIP,24-02-2022
+CSTMR0437,Other,19,Istanbul,Marmara,Standard,08-03-2020
+CSTMR0438,Male,20,Kocaeli,Marmara,Premium,30-12-2020
+CSTMR0439,Female,18,Istanbul,Marmara,Standard,31-01-2022
+CSTMR0440,Male,31,Istanbul,Marmara,Standard,26-10-2020
+CSTMR0441,Male,41,Trabzon,Black Sea,Standard,27-06-2022
+CSTMR0442,Male,23,Bursa,Marmara,Standard,29-09-2020
+CSTMR0443,Female,50,Bursa,Marmara,Standard,25-09-2022
+CSTMR0444,Male,30,Kocaeli,Marmara,Standard,12-06-2020
+CSTMR0445,Female,57,Bursa,Marmara,Premium,09-03-2023
+CSTMR0446,Male,56,Kocaeli,Marmara,Standard,03-09-2022
+CSTMR0447,Male,38,Istanbul,Marmara,Standard,30-03-2022
+CSTMR0448,Male,45,Bursa,Marmara,Standard,30-01-2023
+CSTMR0449,Male,62,Eskisehir,Central Anatolia,Premium,13-05-2021
+CSTMR0450,Female,24,Adana,Mediterranean,Premium,22-03-2020
+CSTMR0451,Female,53,Kocaeli,Marmara,Premium,25-05-2021
+CSTMR0452,Female,42,Bursa,Marmara,Standard,30-05-2022
+CSTMR0453,Male,24,Istanbul,Marmara,VIP,31-07-2022
+CSTMR0454,Male,27,Istanbul,Marmara,Standard,24-04-2021
+CSTMR0455,Female,38,Izmir,Aegean,Premium,03-10-2020
+CSTMR0456,Male,50,Istanbul,Marmara,Premium,26-11-2021
+CSTMR0457,Male,52,Istanbul,Marmara,Premium,20-05-2020
+CSTMR0458,Male,20,Izmir,Aegean,Premium,24-02-2023
+CSTMR0459,Female,35,Aydin,Aegean,Standard,17-02-2021
+CSTMR0460,Male,27,Kocaeli,Marmara,VIP,28-06-2022
+CSTMR0461,Male,18,Istanbul,Marmara,Standard,09-01-2021
+CSTMR0462,Female,40,Kocaeli,Marmara,Standard,17-11-2020
+CSTMR0463,Female,26,Istanbul,Marmara,Standard,22-06-2022
+CSTMR0464,Male,28,Istanbul,Marmara,Premium,02-01-2022
+CSTMR0465,Female,20,Istanbul,Marmara,Premium,12-12-2022
+CSTMR0466,Male,41,Istanbul,Marmara,Standard,01-07-2020
+CSTMR0467,Male,59,Istanbul,Marmara,Standard,08-06-2020
+CSTMR0468,Male,52,Istanbul,Marmara,Standard,22-02-2020
+CSTMR0469,Male,24,Ankara,Central Anatolia,Standard,01-11-2022
+CSTMR0470,Male,38,Istanbul,Marmara,Standard,19-12-2020
+CSTMR0471,Male,27,Istanbul,Marmara,Standard,23-03-2023
+CSTMR0472,Male,35,Eskisehir,Central Anatolia,Standard,16-01-2023
+CSTMR0473,Female,47,Istanbul,Marmara,Standard,24-09-2021
+CSTMR0474,Male,27,Ankara,Central Anatolia,VIP,03-03-2021
+CSTMR0475,Female,36,Bursa,Marmara,Premium,21-11-2021
+CSTMR0476,Male,45,Kocaeli,Marmara,Premium,17-07-2022
+CSTMR0477,Male,27,Istanbul,Marmara,VIP,22-08-2020
+CSTMR0478,Male,42,Ankara,Central Anatolia,Standard,06-03-2021
+CSTMR0479,Female,64,Trabzon,Black Sea,VIP,01-07-2022
+CSTMR0480,Female,33,Kocaeli,Marmara,Standard,14-08-2020
+CSTMR0481,Male,32,Ankara,Central Anatolia,Standard,31-01-2020
+CSTMR0482,Male,55,Ankara,Central Anatolia,Premium,09-08-2022
+CSTMR0483,Female,46,Istanbul,Marmara,Premium,23-10-2022
+CSTMR0484,Female,36,Bursa,Marmara,Standard,02-05-2021
+CSTMR0485,Female,50,Ankara,Central Anatolia,Premium,18-07-2021
+CSTMR0486,Female,44,Istanbul,Marmara,Standard,30-01-2023
+CSTMR0487,Female,35,Kocaeli,Marmara,VIP,20-04-2020
+CSTMR0488,Female,26,Istanbul,Marmara,VIP,24-06-2021
+CSTMR0489,Female,62,Istanbul,Marmara,Standard,25-03-2023
+CSTMR0490,Male,40,Istanbul,Marmara,Standard,23-06-2020
+CSTMR0491,Male,49,Kocaeli,Marmara,Standard,25-01-2022
+CSTMR0492,Male,29,Izmir,Aegean,VIP,07-01-2021
+CSTMR0493,Female,40,Ankara,Central Anatolia,Standard,04-12-2022
+CSTMR0494,Male,40,Istanbul,Marmara,Premium,03-05-2021
+CSTMR0495,Male,29,Izmir,Aegean,VIP,30-05-2021
+CSTMR0496,Male,37,Ankara,Central Anatolia,Premium,30-08-2021
+CSTMR0497,Female,55,Istanbul,Marmara,Standard,18-01-2023
+CSTMR0498,Male,41,Izmir,Aegean,Standard,21-05-2021
+CSTMR0499,Male,43,Bursa,Marmara,VIP,05-05-2021
+CSTMR0500,Female,51,Istanbul,Marmara,Premium,12-07-2021
+CSTMR0501,Female,43,Kocaeli,Marmara,Standard,26-12-2020
+CSTMR0502,Female,40,Antalya,Mediterranean,VIP,15-01-2020
+CSTMR0503,Female,39,Antalya,Mediterranean,Standard,21-03-2021
+CSTMR0504,Female,42,Bursa,Marmara,Standard,03-01-2020
+CSTMR0505,Male,43,Istanbul,Marmara,Standard,28-09-2020
+CSTMR0506,Male,42,Bursa,Marmara,Standard,18-01-2023
+CSTMR0507,Male,47,Istanbul,Marmara,VIP,19-05-2022
+CSTMR0508,Male,37,Istanbul,Marmara,Standard,01-06-2022
+CSTMR0509,Male,27,Antalya,Mediterranean,Standard,18-07-2022
+CSTMR0510,Female,56,Kocaeli,Marmara,Standard,09-05-2021
+CSTMR0511,Female,44,Izmir,Aegean,Standard,24-02-2021
+CSTMR0512,Female,43,Antalya,Mediterranean,Premium,19-06-2020
+CSTMR0513,Female,38,Ankara,Central Anatolia,Standard,28-02-2022
+CSTMR0514,Female,22,Kocaeli,Marmara,Standard,11-04-2023
+CSTMR0515,Male,46,Trabzon,Black Sea,Standard,23-08-2021
+CSTMR0516,Female,35,Bursa,Marmara,Standard,20-09-2021
+CSTMR0517,Female,18,Izmir,Aegean,Standard,15-11-2021
+CSTMR0518,Male,32,Bursa,Marmara,VIP,19-11-2020
+CSTMR0519,Male,28,Antalya,Mediterranean,Standard,19-12-2020
+CSTMR0520,Male,46,Bursa,Marmara,Standard,12-10-2021
+CSTMR0521,Male,49,Istanbul,Marmara,VIP,17-07-2020
+CSTMR0522,Male,32,Eskisehir,Central Anatolia,Premium,08-02-2021
+CSTMR0523,Female,39,Istanbul,Marmara,Standard,06-07-2021
+CSTMR0524,Female,49,Istanbul,Marmara,VIP,19-04-2021
+CSTMR0525,Female,18,Ankara,Central Anatolia,Premium,09-02-2020
+CSTMR0526,Male,40,Ankara,Central Anatolia,Standard,19-06-2021
+CSTMR0527,Male,39,Istanbul,Marmara,Standard,05-10-2020
+CSTMR0528,Female,50,Kocaeli,Marmara,Standard,11-11-2021
+CSTMR0529,Female,29,Adana,Mediterranean,Standard,25-01-2021
+CSTMR0530,Female,38,Bursa,Marmara,Premium,18-01-2021
+CSTMR0531,Male,52,Ankara,Central Anatolia,Premium,01-11-2020
+CSTMR0532,Female,47,Istanbul,Marmara,Standard,24-07-2020
+CSTMR0533,Female,46,Kocaeli,Marmara,Standard,22-01-2022
+CSTMR0534,Female,28,Ankara,Central Anatolia,Premium,01-02-2020
+CSTMR0535,Female,44,Istanbul,Marmara,VIP,19-05-2021
+CSTMR0536,Male,39,Izmir,Aegean,Premium,05-07-2022
+CSTMR0537,Male,27,Adana,Mediterranean,Premium,13-06-2022
+CSTMR0538,Female,44,Aydin,Aegean,Standard,21-10-2022
+CSTMR0539,Female,32,Istanbul,Marmara,Standard,11-11-2021
+CSTMR0540,Male,49,Istanbul,Marmara,Premium,01-09-2020
+CSTMR0541,Female,43,Antalya,Mediterranean,Standard,05-03-2020
+CSTMR0542,Male,58,Kocaeli,Marmara,Standard,13-05-2022
+CSTMR0543,Male,37,Istanbul,Marmara,Standard,13-07-2022
+CSTMR0544,Female,43,Antalya,Mediterranean,Standard,04-12-2020
+CSTMR0545,Female,25,Antalya,Mediterranean,Standard,20-10-2021
+CSTMR0546,Female,37,Ankara,Central Anatolia,Standard,23-01-2023
+CSTMR0547,Female,42,Ankara,Central Anatolia,VIP,02-06-2021
+CSTMR0548,Male,47,Ankara,Central Anatolia,Standard,11-10-2022
+CSTMR0549,Female,33,Kocaeli,Marmara,Standard,23-02-2023
+CSTMR0550,Female,39,Bursa,Marmara,Premium,20-06-2022
+CSTMR0551,Female,29,Ankara,Central Anatolia,Premium,19-02-2020
+CSTMR0552,Female,36,Istanbul,Marmara,VIP,12-07-2021
+CSTMR0553,Female,46,Istanbul,Marmara,Premium,02-08-2020
+CSTMR0554,Female,48,Istanbul,Marmara,VIP,18-11-2022
+CSTMR0555,Male,42,Istanbul,Marmara,Premium,11-11-2021
+CSTMR0556,Male,37,Bursa,Marmara,Standard,15-10-2022
+CSTMR0557,Other,46,Kocaeli,Marmara,Premium,14-06-2020
+CSTMR0558,Male,54,Istanbul,Marmara,Standard,30-10-2021
+CSTMR0559,Male,59,Bursa,Marmara,Premium,01-01-2021
+CSTMR0560,Female,30,Aydin,Aegean,Premium,03-03-2023
+CSTMR0561,Female,47,Istanbul,Marmara,Standard,09-04-2020
+CSTMR0562,Female,56,Istanbul,Marmara,Standard,17-08-2021
+CSTMR0563,Female,35,Izmir,Aegean,Standard,01-09-2021
+CSTMR0564,Male,41,Izmir,Aegean,Standard,27-10-2020
+CSTMR0565,Female,44,Bursa,Marmara,Premium,15-02-2020
+CSTMR0566,Male,37,Adana,Mediterranean,Premium,18-10-2021
+CSTMR0567,Female,46,Istanbul,Marmara,Standard,01-01-2021
+CSTMR0568,Male,34,Aydin,Aegean,Premium,03-07-2022
+CSTMR0569,Female,22,Aydin,Aegean,Premium,08-02-2020
+CSTMR0570,Female,46,Aydin,Aegean,Standard,06-12-2022
+CSTMR0571,Male,35,Bursa,Marmara,Standard,30-03-2023
+CSTMR0572,Male,46,Antalya,Mediterranean,VIP,30-09-2021
+CSTMR0573,Female,21,Izmir,Aegean,VIP,12-04-2022
+CSTMR0574,Female,40,Istanbul,Marmara,VIP,08-05-2021
+CSTMR0575,Male,50,Istanbul,Marmara,Premium,06-03-2022
+CSTMR0576,Female,66,Istanbul,Marmara,Premium,02-05-2022
+CSTMR0577,Female,50,Kocaeli,Marmara,Standard,01-04-2020
+CSTMR0578,Male,43,Ankara,Central Anatolia,Standard,10-02-2022
+CSTMR0579,Male,32,Istanbul,Marmara,Standard,26-02-2023
+CSTMR0580,Female,37,Izmir,Aegean,Standard,27-11-2022
+CSTMR0581,Male,48,Ankara,Central Anatolia,Standard,13-03-2022
+CSTMR0582,Male,49,Antalya,Mediterranean,Standard,09-10-2020
+CSTMR0583,Male,21,Ankara,Central Anatolia,Standard,01-06-2020
+CSTMR0584,Female,22,Ankara,Central Anatolia,Standard,13-09-2021
+CSTMR0585,Female,35,Izmir,Aegean,Standard,30-06-2021
+CSTMR0586,Male,27,Ankara,Central Anatolia,Premium,27-03-2020
+CSTMR0587,Male,33,Izmir,Aegean,Standard,14-10-2021
+CSTMR0588,Female,57,Kocaeli,Marmara,Standard,04-12-2022
+CSTMR0589,Male,49,Kocaeli,Marmara,Standard,23-10-2021
+CSTMR0590,Male,49,Bursa,Marmara,Standard,19-02-2021
+CSTMR0591,Female,28,Istanbul,Marmara,Standard,31-10-2022
+CSTMR0592,Female,34,Bursa,Marmara,Premium,26-05-2020
+CSTMR0593,Male,41,Bursa,Marmara,Premium,15-08-2022
+CSTMR0594,Female,38,Bursa,Marmara,Standard,28-09-2022
+CSTMR0595,Female,50,Izmir,Aegean,Premium,26-08-2020
+CSTMR0596,Female,35,Istanbul,Marmara,VIP,13-07-2022
+CSTMR0597,Male,25,Ankara,Central Anatolia,VIP,27-10-2022
+CSTMR0598,Male,38,Ankara,Central Anatolia,Premium,12-06-2021
+CSTMR0599,Female,49,Istanbul,Marmara,Standard,04-03-2022
+CSTMR0600,Male,35,Aydin,Aegean,Standard,23-09-2021
+CSTMR0601,Male,34,Istanbul,Marmara,Standard,21-09-2021
+CSTMR0602,Female,42,Istanbul,Marmara,Standard,19-08-2022
+CSTMR0603,Male,37,Izmir,Aegean,Standard,19-10-2021
+CSTMR0604,Female,35,Istanbul,Marmara,Standard,17-06-2021
+CSTMR0605,Female,45,Kocaeli,Marmara,Standard,08-12-2022
+CSTMR0606,Female,43,Ankara,Central Anatolia,VIP,30-11-2020
+CSTMR0607,Female,37,Istanbul,Marmara,Standard,24-07-2020
+CSTMR0608,Male,31,Bursa,Marmara,Premium,22-04-2022
+CSTMR0609,Female,35,Istanbul,Marmara,Standard,21-02-2023
+CSTMR0610,Female,63,Istanbul,Marmara,Standard,05-03-2023
+CSTMR0611,Female,18,Izmir,Aegean,Premium,29-04-2021
+CSTMR0612,Female,41,Bursa,Marmara,Premium,20-01-2023
+CSTMR0613,Female,42,Ankara,Central Anatolia,Premium,17-06-2022
+CSTMR0614,Female,40,Ankara,Central Anatolia,Standard,26-07-2022
+CSTMR0615,Male,28,Izmir,Aegean,Premium,29-11-2022
+CSTMR0616,Male,56,Ankara,Central Anatolia,Standard,11-10-2021
+CSTMR0617,Female,40,Bursa,Marmara,VIP,07-05-2022
+CSTMR0618,Male,32,Bursa,Marmara,Standard,02-03-2020
+CSTMR0619,Male,40,Istanbul,Marmara,Standard,15-11-2021
+CSTMR0620,Male,44,Istanbul,Marmara,Standard,11-07-2022
+CSTMR0621,Female,50,Ankara,Central Anatolia,Standard,05-06-2022
+CSTMR0622,Female,44,Izmir,Aegean,Standard,22-07-2020
+CSTMR0623,Female,18,Bursa,Marmara,Standard,30-08-2021
+CSTMR0624,Male,34,Istanbul,Marmara,Standard,20-11-2021
+CSTMR0625,Other,38,Aydin,Aegean,Premium,30-03-2021
+CSTMR0626,Male,20,Ankara,Central Anatolia,Premium,26-11-2020
+CSTMR0627,Female,45,Istanbul,Marmara,Standard,08-05-2022
+CSTMR0628,Female,50,Bursa,Marmara,Standard,13-03-2022
+CSTMR0629,Female,42,Istanbul,Marmara,Standard,15-05-2021
+CSTMR0630,Male,55,Ankara,Central Anatolia,Standard,23-04-2020
+CSTMR0631,Male,38,Istanbul,Marmara,Premium,29-05-2021
+CSTMR0632,Female,24,Izmir,Aegean,Premium,20-06-2021
+CSTMR0633,Male,48,Istanbul,Marmara,VIP,07-12-2022
+CSTMR0634,Male,52,Antalya,Mediterranean,Premium,25-11-2021
+CSTMR0635,Female,18,Kocaeli,Marmara,VIP,10-02-2023
+CSTMR0636,Female,21,Kocaeli,Marmara,Premium,14-10-2020
+CSTMR0637,Male,25,Antalya,Mediterranean,Standard,03-10-2020
+CSTMR0638,Male,55,Izmir,Aegean,Standard,06-05-2022
+CSTMR0639,Male,42,Izmir,Aegean,Standard,07-09-2021
+CSTMR0640,Male,25,Izmir,Aegean,Standard,02-04-2020
+CSTMR0641,Other,35,Bursa,Marmara,Standard,15-06-2021
+CSTMR0642,Male,22,Kocaeli,Marmara,Standard,22-01-2023
+CSTMR0643,Female,43,Istanbul,Marmara,Standard,25-05-2022
+CSTMR0644,Female,50,Istanbul,Marmara,VIP,22-10-2020
+CSTMR0645,Male,21,Izmir,Aegean,VIP,02-06-2021
+CSTMR0646,Male,45,Izmir,Aegean,Standard,03-06-2020
+CSTMR0647,Male,41,Bursa,Marmara,Standard,29-08-2021
+CSTMR0648,Male,38,Istanbul,Marmara,Premium,02-08-2022
+CSTMR0649,Female,43,Ankara,Central Anatolia,Standard,30-12-2022
+CSTMR0650,Female,18,Bursa,Marmara,Standard,28-12-2021
+CSTMR0651,Male,18,Ankara,Central Anatolia,Standard,19-04-2020
+CSTMR0652,Female,32,Istanbul,Marmara,Standard,11-10-2021
+CSTMR0653,Male,32,Istanbul,Marmara,Premium,14-01-2023
+CSTMR0654,Male,40,Istanbul,Marmara,Standard,28-02-2022
+CSTMR0655,Male,54,Istanbul,Marmara,Standard,30-04-2021
+CSTMR0656,Female,41,Istanbul,Marmara,Premium,09-02-2023
+CSTMR0657,Female,41,Bursa,Marmara,Standard,15-04-2020
+CSTMR0658,Male,37,Istanbul,Marmara,Premium,17-01-2023
+CSTMR0659,Female,43,Istanbul,Marmara,Standard,10-04-2022
+CSTMR0660,Female,42,Ankara,Central Anatolia,Standard,09-02-2020
+CSTMR0661,Male,58,Kocaeli,Marmara,Standard,27-11-2022
+CSTMR0662,Female,37,Ankara,Central Anatolia,Premium,07-11-2022
+CSTMR0663,Male,43,Eskisehir,Central Anatolia,Standard,26-05-2022
+CSTMR0664,Male,18,Izmir,Aegean,Premium,13-10-2022
+CSTMR0665,Male,42,Antalya,Mediterranean,Standard,24-04-2022
+CSTMR0666,Female,37,Izmir,Aegean,Premium,07-08-2020
+CSTMR0667,Male,18,Eskisehir,Central Anatolia,VIP,30-08-2021
+CSTMR0668,Male,34,Izmir,Aegean,Standard,03-07-2020
+CSTMR0669,Male,52,Izmir,Aegean,Standard,03-11-2020
+CSTMR0670,Male,27,Istanbul,Marmara,Standard,31-01-2022
+CSTMR0671,Female,46,Izmir,Aegean,Standard,02-10-2020
+CSTMR0672,Female,54,Istanbul,Marmara,Standard,29-06-2022
+CSTMR0673,Male,39,Antalya,Mediterranean,Standard,08-02-2023
+CSTMR0674,Male,44,Bursa,Marmara,Standard,05-06-2022
+CSTMR0675,Male,31,Ankara,Central Anatolia,Premium,19-02-2022
+CSTMR0676,Male,54,Istanbul,Marmara,Premium,28-04-2022
+CSTMR0677,Male,38,Kocaeli,Marmara,Standard,15-04-2021
+CSTMR0678,Male,48,Ankara,Central Anatolia,Standard,10-10-2021
+CSTMR0679,Male,37,Istanbul,Marmara,Standard,19-05-2020
+CSTMR0680,Male,32,Izmir,Aegean,Premium,12-03-2020
+CSTMR0681,Female,22,Istanbul,Marmara,Premium,06-09-2021
+CSTMR0682,Male,43,Istanbul,Marmara,Premium,02-01-2022
+CSTMR0683,Male,35,Istanbul,Marmara,Standard,07-05-2021
+CSTMR0684,Female,45,Ankara,Central Anatolia,Standard,14-08-2020
+CSTMR0685,Female,23,Istanbul,Marmara,Premium,20-05-2022
+CSTMR0686,Male,25,Izmir,Aegean,VIP,17-11-2022
+CSTMR0687,Female,41,Istanbul,Marmara,Premium,27-02-2020
+CSTMR0688,Other,44,Kocaeli,Marmara,Standard,30-11-2021
+CSTMR0689,Female,30,Bursa,Marmara,VIP,15-06-2022
+CSTMR0690,Female,35,Kocaeli,Marmara,Standard,04-04-2021
+CSTMR0691,Male,24,Antalya,Mediterranean,Standard,20-06-2021
+CSTMR0692,Male,41,Istanbul,Marmara,Premium,21-09-2021
+CSTMR0693,Female,43,Eskisehir,Central Anatolia,VIP,25-10-2022
+CSTMR0694,Female,56,Ankara,Central Anatolia,Premium,01-04-2023
+CSTMR0695,Male,18,Eskisehir,Central Anatolia,Standard,01-05-2022
+CSTMR0696,Female,19,Istanbul,Marmara,Standard,02-01-2021
+CSTMR0697,Female,31,Bursa,Marmara,Premium,19-09-2021
+CSTMR0698,Male,25,Kocaeli,Marmara,VIP,20-10-2020
+CSTMR0699,Female,42,Izmir,Aegean,Standard,10-09-2022
+CSTMR0700,Female,30,Eskisehir,Central Anatolia,Standard,09-02-2023
+CSTMR0701,Male,27,Ankara,Central Anatolia,Premium,21-05-2022
+CSTMR0702,Male,40,Bursa,Marmara,Standard,10-12-2020
+CSTMR0703,Female,47,Istanbul,Marmara,Standard,06-11-2020
+CSTMR0704,Male,29,Izmir,Aegean,Premium,07-08-2021
+CSTMR0705,Female,48,Ankara,Central Anatolia,Standard,17-04-2020
+CSTMR0706,Male,56,Izmir,Aegean,Premium,17-08-2022
+CSTMR0707,Female,37,Istanbul,Marmara,Premium,26-06-2021
+CSTMR0708,Other,43,Bursa,Marmara,Standard,05-07-2021
+CSTMR0709,Female,42,Eskisehir,Central Anatolia,Standard,22-01-2020
+CSTMR0710,Male,28,Bursa,Marmara,Standard,12-06-2021
+CSTMR0711,Female,32,Eskisehir,Central Anatolia,Standard,11-06-2020
+CSTMR0712,Female,50,Ankara,Central Anatolia,Standard,25-09-2020
+CSTMR0713,Male,40,Kocaeli,Marmara,Standard,26-01-2020
+CSTMR0714,Male,43,Istanbul,Marmara,VIP,24-07-2021
+CSTMR0715,Female,58,Istanbul,Marmara,Standard,18-01-2021
+CSTMR0716,Male,43,Ankara,Central Anatolia,Standard,20-01-2022
+CSTMR0717,Female,46,Bursa,Marmara,Standard,07-03-2021
+CSTMR0718,Other,18,Bursa,Marmara,Standard,28-12-2020
+CSTMR0719,Female,40,Kocaeli,Marmara,Standard,29-05-2022
+CSTMR0720,Male,57,Izmir,Aegean,Standard,01-01-2022
+CSTMR0721,Female,39,Aydin,Aegean,Standard,09-02-2022
+CSTMR0722,Female,19,Aydin,Aegean,Premium,19-07-2020
+CSTMR0723,Male,37,Bursa,Marmara,Standard,22-02-2023
+CSTMR0724,Female,30,Ankara,Central Anatolia,Premium,19-10-2021
+CSTMR0725,Male,24,Eskisehir,Central Anatolia,Standard,24-10-2021
+CSTMR0726,Female,18,Ankara,Central Anatolia,Premium,08-05-2021
+CSTMR0727,Female,18,Istanbul,Marmara,VIP,30-08-2021
+CSTMR0728,Female,38,Istanbul,Marmara,Standard,10-01-2021
+CSTMR0729,Male,36,Aydin,Aegean,Premium,19-02-2021
+CSTMR0730,Male,43,Antalya,Mediterranean,Standard,29-05-2020
+CSTMR0731,Female,57,Izmir,Aegean,Standard,22-04-2020
+CSTMR0732,Female,50,Istanbul,Marmara,Standard,04-05-2020
+CSTMR0733,Female,18,Istanbul,Marmara,Premium,02-01-2021
+CSTMR0734,Female,53,Aydin,Aegean,Standard,28-08-2021
+CSTMR0735,Female,50,Istanbul,Marmara,Premium,08-04-2020
+CSTMR0736,Female,57,Antalya,Mediterranean,Standard,21-06-2022
+CSTMR0737,Female,30,Istanbul,Marmara,Premium,28-08-2020
+CSTMR0738,Female,36,Aydin,Aegean,Premium,17-10-2021
+CSTMR0739,Female,36,Izmir,Aegean,Standard,25-09-2022
+CSTMR0740,Female,37,Kocaeli,Marmara,VIP,13-08-2021
+CSTMR0741,Female,48,Istanbul,Marmara,Standard,12-01-2020
+CSTMR0742,Female,18,Istanbul,Marmara,Premium,09-04-2021
+CSTMR0743,Female,18,Ankara,Central Anatolia,Standard,14-07-2022
+CSTMR0744,Male,30,Izmir,Aegean,Premium,21-02-2023
+CSTMR0745,Male,61,Izmir,Aegean,Premium,05-04-2021
+CSTMR0746,Male,36,Ankara,Central Anatolia,Premium,08-10-2022
+CSTMR0747,Female,25,Istanbul,Marmara,Standard,15-03-2023
+CSTMR0748,Male,18,Bursa,Marmara,Standard,15-04-2021
+CSTMR0749,Female,22,Istanbul,Marmara,Standard,07-10-2022
+CSTMR0750,Female,24,Izmir,Aegean,Standard,16-03-2021
+CSTMR0751,Other,43,Istanbul,Marmara,Standard,15-09-2022
+CSTMR0752,Female,62,Bursa,Marmara,Standard,14-05-2020
+CSTMR0753,Female,52,Kocaeli,Marmara,Standard,18-02-2021
+CSTMR0754,Female,29,Izmir,Aegean,Standard,07-03-2023
+CSTMR0755,Female,51,Istanbul,Marmara,Standard,01-09-2020
+CSTMR0756,Male,40,Istanbul,Marmara,Standard,06-12-2020
+CSTMR0757,Female,26,Ankara,Central Anatolia,Standard,05-02-2023
+CSTMR0758,Female,29,Istanbul,Marmara,Standard,07-05-2021
+CSTMR0759,Male,46,Istanbul,Marmara,Standard,12-10-2022
+CSTMR0760,Male,37,Istanbul,Marmara,Standard,03-07-2020
+CSTMR0761,Female,27,Kocaeli,Marmara,Standard,12-01-2020
+CSTMR0762,Female,52,Istanbul,Marmara,Standard,19-05-2021
+CSTMR0763,Male,25,Kocaeli,Marmara,Premium,11-07-2022
+CSTMR0764,Male,60,Bursa,Marmara,Standard,10-06-2021
+CSTMR0765,Male,38,Istanbul,Marmara,Standard,25-04-2022
+CSTMR0766,Female,72,Ankara,Central Anatolia,Standard,09-11-2020
+CSTMR0767,Other,26,Kocaeli,Marmara,Premium,27-04-2022
+CSTMR0768,Male,50,Istanbul,Marmara,VIP,29-07-2022
+CSTMR0769,Female,27,Izmir,Aegean,Standard,01-02-2023
+CSTMR0770,Female,29,Istanbul,Marmara,Premium,30-01-2021
+CSTMR0771,Female,18,Istanbul,Marmara,Standard,11-11-2021
+CSTMR0772,Male,46,Istanbul,Marmara,Standard,06-01-2021
+CSTMR0773,Male,45,Istanbul,Marmara,Standard,23-02-2022
+CSTMR0774,Male,34,Istanbul,Marmara,VIP,10-03-2022
+CSTMR0775,Female,45,Istanbul,Marmara,Standard,16-04-2022
+CSTMR0776,Female,71,Istanbul,Marmara,Standard,28-07-2022
+CSTMR0777,Other,37,Kocaeli,Marmara,Standard,11-06-2021
+CSTMR0778,Female,41,Ankara,Central Anatolia,Standard,27-02-2020
+CSTMR0779,Female,51,Izmir,Aegean,Premium,09-02-2023
+CSTMR0780,Male,37,Istanbul,Marmara,Premium,30-07-2020
+CSTMR0781,Male,37,Aydin,Aegean,Premium,15-11-2021
+CSTMR0782,Male,51,Ankara,Central Anatolia,Premium,21-02-2020
+CSTMR0783,Female,29,Izmir,Aegean,Standard,07-05-2022
+CSTMR0784,Male,29,Izmir,Aegean,Premium,12-07-2022
+CSTMR0785,Male,28,Istanbul,Marmara,Standard,01-12-2022
+CSTMR0786,Female,37,Kocaeli,Marmara,Standard,20-06-2022
+CSTMR0787,Male,48,Ankara,Central Anatolia,Standard,21-02-2020
+CSTMR0788,Female,40,Izmir,Aegean,VIP,13-10-2021
+CSTMR0789,Male,25,Izmir,Aegean,Premium,03-01-2023
+CSTMR0790,Female,52,Istanbul,Marmara,Standard,04-03-2021
+CSTMR0791,Male,36,Istanbul,Marmara,Standard,14-05-2022
+CSTMR0792,Female,42,Izmir,Aegean,Standard,29-09-2020
+CSTMR0793,Male,41,Istanbul,Marmara,Standard,21-05-2021
+CSTMR0794,Female,37,Izmir,Aegean,Standard,25-02-2021
+CSTMR0795,Female,30,Istanbul,Marmara,Premium,25-11-2020
+CSTMR0796,Male,42,Izmir,Aegean,Standard,11-01-2022
+CSTMR0797,Female,43,Istanbul,Marmara,Standard,05-10-2021
+CSTMR0798,Female,26,Izmir,Aegean,Standard,22-04-2021
+CSTMR0799,Female,34,Istanbul,Marmara,Standard,25-01-2022
+CSTMR0800,Female,31,Eskisehir,Central Anatolia,Standard,25-03-2023
+CSTMR0801,Female,35,Izmir,Aegean,Standard,30-10-2020
+CSTMR0802,Female,24,Kocaeli,Marmara,Standard,25-06-2021
+CSTMR0803,Female,51,Ankara,Central Anatolia,Premium,23-11-2021
+CSTMR0804,Female,43,Istanbul,Marmara,Standard,21-08-2021
+CSTMR0805,Other,53,Bursa,Marmara,Standard,29-08-2021
+CSTMR0806,Female,43,Eskisehir,Central Anatolia,VIP,11-05-2022
+CSTMR0807,Female,29,Bursa,Marmara,Standard,20-06-2020
+CSTMR0808,Female,33,Eskisehir,Central Anatolia,Standard,25-02-2021
+CSTMR0809,Female,41,Bursa,Marmara,Standard,27-08-2021
+CSTMR0810,Female,52,Antalya,Mediterranean,Standard,14-11-2022
+CSTMR0811,Female,44,Istanbul,Marmara,Premium,11-08-2020
+CSTMR0812,Male,33,Izmir,Aegean,Premium,04-03-2021
+CSTMR0813,Female,29,Ankara,Central Anatolia,Standard,08-06-2022
+CSTMR0814,Female,48,Istanbul,Marmara,Standard,16-02-2022
+CSTMR0815,Male,36,Kocaeli,Marmara,Standard,16-03-2023
+CSTMR0816,Male,31,Istanbul,Marmara,Standard,23-06-2020
+CSTMR0817,Male,39,Izmir,Aegean,VIP,09-01-2020
+CSTMR0818,Male,29,Istanbul,Marmara,Premium,15-01-2020
+CSTMR0819,Male,38,Bursa,Marmara,Premium,22-09-2020
+CSTMR0820,Female,49,Istanbul,Marmara,Standard,01-11-2020
+CSTMR0821,Female,38,Istanbul,Marmara,Premium,07-06-2022
+CSTMR0822,Female,25,Aydin,Aegean,Standard,14-11-2022
+CSTMR0823,Male,28,Istanbul,Marmara,Standard,20-01-2023
+CSTMR0824,Male,39,Kocaeli,Marmara,Standard,19-08-2020
+CSTMR0825,Female,44,Istanbul,Marmara,Standard,04-03-2021
+CSTMR0826,Female,38,Istanbul,Marmara,Standard,01-01-2021
+CSTMR0827,Female,34,Ankara,Central Anatolia,Standard,30-08-2022
+CSTMR0828,Female,28,Ankara,Central Anatolia,Premium,04-02-2020
+CSTMR0829,Female,65,Aydin,Aegean,Premium,26-12-2021
+CSTMR0830,Female,35,Istanbul,Marmara,Premium,14-03-2021
+CSTMR0831,Female,42,Istanbul,Marmara,Premium,23-02-2023
+CSTMR0832,Male,18,Istanbul,Marmara,Standard,06-04-2023
+CSTMR0833,Female,39,Istanbul,Marmara,Standard,22-02-2021
+CSTMR0834,Male,38,Istanbul,Marmara,VIP,01-08-2020
+CSTMR0835,Male,54,Kocaeli,Marmara,VIP,07-07-2022
+CSTMR0836,Female,23,Istanbul,Marmara,Standard,08-11-2020
+CSTMR0837,Male,31,Kocaeli,Marmara,Standard,05-12-2020
+CSTMR0838,Male,46,Ankara,Central Anatolia,Premium,16-06-2021
+CSTMR0839,Female,24,Istanbul,Marmara,Premium,20-09-2021
+CSTMR0840,Female,37,Istanbul,Marmara,Standard,27-02-2020
+CSTMR0841,Male,49,Istanbul,Marmara,Standard,13-04-2022
+CSTMR0842,Male,27,Kocaeli,Marmara,Standard,25-05-2020
+CSTMR0843,Female,33,Izmir,Aegean,Premium,01-06-2020
+CSTMR0844,Female,31,Izmir,Aegean,Premium,10-12-2020
+CSTMR0845,Male,43,Istanbul,Marmara,Standard,20-04-2022
+CSTMR0846,Female,52,Istanbul,Marmara,Standard,21-05-2022
+CSTMR0847,Female,63,Bursa,Marmara,Standard,22-05-2022
+CSTMR0848,Male,53,Istanbul,Marmara,Standard,25-06-2021
+CSTMR0849,Male,18,Ankara,Central Anatolia,VIP,12-09-2021
+CSTMR0850,Female,55,Istanbul,Marmara,Standard,28-12-2022
+CSTMR0851,Male,53,Antalya,Mediterranean,Standard,26-07-2022
+CSTMR0852,Female,51,Istanbul,Marmara,Standard,07-03-2020
+CSTMR0853,Male,34,Istanbul,Marmara,Premium,02-04-2023
+CSTMR0854,Male,43,Istanbul,Marmara,Standard,13-03-2020
+CSTMR0855,Female,21,Adana,Mediterranean,Standard,20-03-2023
+CSTMR0856,Male,33,Eskisehir,Central Anatolia,VIP,04-01-2022
+CSTMR0857,Female,26,Izmir,Aegean,Premium,02-11-2022
+CSTMR0858,Female,34,Aydin,Aegean,Standard,28-11-2021
+CSTMR0859,Female,50,Bursa,Marmara,Standard,13-08-2022
+CSTMR0860,Male,20,Ankara,Central Anatolia,Premium,03-08-2020
+CSTMR0861,Male,51,Istanbul,Marmara,Standard,19-05-2022
+CSTMR0862,Male,29,Ankara,Central Anatolia,Standard,13-03-2023
+CSTMR0863,Male,28,Ankara,Central Anatolia,Premium,21-06-2020
+CSTMR0864,Male,24,Ankara,Central Anatolia,VIP,01-06-2021
+CSTMR0865,Female,24,Kocaeli,Marmara,Standard,21-03-2023
+CSTMR0866,Female,52,Istanbul,Marmara,Standard,17-06-2022
+CSTMR0867,Male,28,Izmir,Aegean,VIP,06-04-2022
+CSTMR0868,Male,36,Istanbul,Marmara,VIP,18-12-2022
+CSTMR0869,Male,28,Izmir,Aegean,Standard,24-11-2022
+CSTMR0870,Male,40,Istanbul,Marmara,Standard,09-10-2020
+CSTMR0871,Male,44,Izmir,Aegean,Standard,28-07-2021
+CSTMR0872,Male,49,Izmir,Aegean,VIP,11-08-2020
+CSTMR0873,Female,28,Aydin,Aegean,Standard,18-02-2021
+CSTMR0874,Female,18,Istanbul,Marmara,Standard,09-12-2022
+CSTMR0875,Female,35,Ankara,Central Anatolia,Standard,03-09-2020
+CSTMR0876,Other,31,Antalya,Mediterranean,Standard,10-09-2022
+CSTMR0877,Female,40,Istanbul,Marmara,Premium,10-01-2023
+CSTMR0878,Female,18,Kocaeli,Marmara,Standard,03-02-2022
+CSTMR0879,Female,30,Bursa,Marmara,Standard,22-01-2023
+CSTMR0880,Male,18,Ankara,Central Anatolia,Premium,17-10-2020
+CSTMR0881,Male,27,Istanbul,Marmara,Standard,17-05-2021
+CSTMR0882,Other,42,Istanbul,Marmara,Standard,15-08-2021
+CSTMR0883,Male,35,Istanbul,Marmara,Standard,09-12-2021
+CSTMR0884,Female,45,Izmir,Aegean,Premium,11-04-2022
+CSTMR0885,Male,47,Ankara,Central Anatolia,Standard,22-11-2020
+CSTMR0886,Female,48,Istanbul,Marmara,Standard,04-05-2020
+CSTMR0887,Male,55,Istanbul,Marmara,Standard,15-08-2020
+CSTMR0888,Female,47,Istanbul,Marmara,Premium,23-05-2022
+CSTMR0889,Male,36,Aydin,Aegean,Standard,19-06-2020
+CSTMR0890,Male,28,Ankara,Central Anatolia,Standard,07-07-2022
+CSTMR0891,Other,31,Ankara,Central Anatolia,Premium,25-05-2020
+CSTMR0892,Male,38,Istanbul,Marmara,Standard,11-07-2020
+CSTMR0893,Female,33,Kocaeli,Marmara,Standard,04-06-2021
+CSTMR0894,Female,45,Istanbul,Marmara,VIP,21-11-2021
+CSTMR0895,Female,21,Bursa,Marmara,Standard,08-08-2022
+CSTMR0896,Male,39,Bursa,Marmara,Standard,03-04-2021
+CSTMR0897,Male,29,Antalya,Mediterranean,VIP,21-04-2020
+CSTMR0898,Female,34,Istanbul,Marmara,Premium,15-04-2021
+CSTMR0899,Female,41,Istanbul,Marmara,Premium,11-02-2023
+CSTMR0900,Male,27,Kocaeli,Marmara,Standard,16-11-2020
+CSTMR0901,Male,35,Ankara,Central Anatolia,Premium,21-06-2021
+CSTMR0902,Female,40,Antalya,Mediterranean,Premium,19-06-2020
+CSTMR0903,Female,38,Kocaeli,Marmara,Standard,31-03-2023
+CSTMR0904,Male,40,Kocaeli,Marmara,Premium,22-11-2020
+CSTMR0905,Male,35,Ankara,Central Anatolia,Premium,19-03-2023
+CSTMR0906,Female,21,Istanbul,Marmara,Premium,15-05-2021
+CSTMR0907,Male,30,Antalya,Mediterranean,VIP,05-04-2021
+CSTMR0908,Male,31,Bursa,Marmara,Premium,01-09-2022
+CSTMR0909,Other,42,Kocaeli,Marmara,Standard,27-04-2022
+CSTMR0910,Male,30,Ankara,Central Anatolia,Premium,23-03-2023
+CSTMR0911,Male,28,Kocaeli,Marmara,Premium,05-08-2021
+CSTMR0912,Female,63,Ankara,Central Anatolia,Standard,08-09-2021
+CSTMR0913,Male,21,Istanbul,Marmara,Standard,13-08-2020
+CSTMR0914,Female,53,Istanbul,Marmara,Standard,25-01-2023
+CSTMR0915,Male,49,Izmir,Aegean,Premium,06-07-2021
+CSTMR0916,Male,21,Aydin,Aegean,Standard,05-07-2020
+CSTMR0917,Male,53,Istanbul,Marmara,Premium,22-03-2021
+CSTMR0918,Female,24,Aydin,Aegean,Standard,24-06-2020
+CSTMR0919,Female,31,Eskisehir,Central Anatolia,Standard,27-02-2023
+CSTMR0920,Male,34,Ankara,Central Anatolia,Standard,15-04-2022
+CSTMR0921,Female,41,Eskisehir,Central Anatolia,Premium,31-05-2020
+CSTMR0922,Male,57,Aydin,Aegean,Standard,10-04-2020
+CSTMR0923,Male,38,Izmir,Aegean,Standard,12-07-2021
+CSTMR0924,Female,35,Istanbul,Marmara,Premium,14-09-2022
+CSTMR0925,Male,36,Istanbul,Marmara,Premium,01-04-2020
+CSTMR0926,Male,47,Istanbul,Marmara,Standard,20-03-2022
+CSTMR0927,Male,18,Aydin,Aegean,Standard,08-12-2022
+CSTMR0928,Male,30,Ankara,Central Anatolia,Premium,05-12-2022
+CSTMR0929,Male,34,Istanbul,Marmara,Standard,15-02-2023
+CSTMR0930,Male,51,Ankara,Central Anatolia,Standard,09-05-2022
+CSTMR0931,Male,24,Istanbul,Marmara,Standard,17-07-2020
+CSTMR0932,Other,45,Bursa,Marmara,Premium,20-08-2022
+CSTMR0933,Other,36,Kocaeli,Marmara,Standard,09-03-2023
+CSTMR0934,Female,44,Izmir,Aegean,Standard,12-06-2022
+CSTMR0935,Female,47,Ankara,Central Anatolia,Premium,09-05-2020
+CSTMR0936,Male,23,Izmir,Aegean,Standard,18-03-2020
+CSTMR0937,Female,31,Eskisehir,Central Anatolia,Premium,04-10-2020
+CSTMR0938,Female,40,Izmir,Aegean,Standard,10-12-2022
+CSTMR0939,Male,21,Ankara,Central Anatolia,Premium,22-12-2020
+CSTMR0940,Male,42,Istanbul,Marmara,Premium,10-07-2020
+CSTMR0941,Male,33,Istanbul,Marmara,Premium,12-06-2021
+CSTMR0942,Male,41,Ankara,Central Anatolia,Premium,25-02-2021
+CSTMR0943,Female,45,Aydin,Aegean,Standard,29-12-2020
+CSTMR0944,Female,36,Ankara,Central Anatolia,Standard,20-08-2022
+CSTMR0945,Male,62,Istanbul,Marmara,Premium,15-04-2020
+CSTMR0946,Male,53,Izmir,Aegean,Premium,19-01-2020
+CSTMR0947,Female,22,Izmir,Aegean,Standard,13-06-2022
+CSTMR0948,Male,42,Istanbul,Marmara,Standard,27-09-2021
+CSTMR0949,Male,31,Istanbul,Marmara,Premium,04-04-2021
+CSTMR0950,Male,44,Ankara,Central Anatolia,Standard,03-05-2022
+CSTMR0951,Female,18,Aydin,Aegean,VIP,26-03-2020
+CSTMR0952,Male,38,Istanbul,Marmara,Standard,10-12-2022
+CSTMR0953,Female,66,Istanbul,Marmara,Standard,11-03-2022
+CSTMR0954,Male,42,Istanbul,Marmara,Standard,17-12-2020
+CSTMR0955,Female,46,Bursa,Marmara,Standard,25-01-2020
+CSTMR0956,Female,31,Istanbul,Marmara,Standard,08-12-2020
+CSTMR0957,Female,52,Istanbul,Marmara,Premium,17-07-2022
+CSTMR0958,Male,35,Ankara,Central Anatolia,Standard,17-10-2022
+CSTMR0959,Female,29,Bursa,Marmara,VIP,24-06-2022
+CSTMR0960,Male,34,Ankara,Central Anatolia,Standard,02-04-2023
+CSTMR0961,Male,52,Izmir,Aegean,Premium,11-05-2022
+CSTMR0962,Female,38,Istanbul,Marmara,Standard,12-04-2022
+CSTMR0963,Male,23,Istanbul,Marmara,Standard,30-03-2020
+CSTMR0964,Female,40,Ankara,Central Anatolia,VIP,16-06-2022
+CSTMR0965,Female,54,Istanbul,Marmara,Premium,23-09-2022
+CSTMR0966,Male,18,Istanbul,Marmara,Premium,20-03-2023
+CSTMR0967,Female,49,Izmir,Aegean,Standard,24-04-2022
+CSTMR0968,Male,35,Ankara,Central Anatolia,Premium,29-01-2022
+CSTMR0969,Female,23,Istanbul,Marmara,Standard,10-12-2021
+CSTMR0970,Other,50,Izmir,Aegean,Standard,24-02-2021
+CSTMR0971,Female,33,Ankara,Central Anatolia,Standard,05-04-2021
+CSTMR0972,Male,18,Ankara,Central Anatolia,Premium,08-03-2020
+CSTMR0973,Female,19,Istanbul,Marmara,Premium,07-06-2021
+CSTMR0974,Female,27,Izmir,Aegean,VIP,08-04-2020
+CSTMR0975,Male,24,Antalya,Mediterranean,Standard,15-04-2022
+CSTMR0976,Male,55,Izmir,Aegean,Standard,29-01-2023
+CSTMR0977,Female,45,Istanbul,Marmara,Standard,30-06-2020
+CSTMR0978,Male,47,Adana,Mediterranean,VIP,27-04-2022
+CSTMR0979,Male,52,Bursa,Marmara,Premium,26-07-2021
+CSTMR0980,Male,32,Kocaeli,Marmara,Standard,13-08-2020
+CSTMR0981,Male,24,Ankara,Central Anatolia,Standard,12-11-2021
+CSTMR0982,Male,63,Istanbul,Marmara,Standard,05-04-2023
+CSTMR0983,Male,59,Istanbul,Marmara,Standard,20-10-2020
+CSTMR0984,Male,47,Istanbul,Marmara,Standard,15-04-2022
+CSTMR0985,Male,50,Istanbul,Marmara,Standard,15-07-2022
+CSTMR0986,Male,53,Kocaeli,Marmara,Standard,19-11-2021
+CSTMR0987,Female,42,Bursa,Marmara,Standard,17-08-2022
+CSTMR0988,Male,41,Ankara,Central Anatolia,VIP,03-05-2022
+CSTMR0989,Male,26,Istanbul,Marmara,Standard,08-12-2021
+CSTMR0990,Female,35,Ankara,Central Anatolia,VIP,12-01-2023
+CSTMR0991,Male,18,Bursa,Marmara,Premium,28-11-2020
+CSTMR0992,Female,39,Istanbul,Marmara,Premium,23-02-2021
+CSTMR0993,Female,19,Istanbul,Marmara,Premium,02-08-2021
+CSTMR0994,Male,36,Istanbul,Marmara,Standard,18-09-2022
+CSTMR0995,Female,36,Aydin,Aegean,Standard,25-02-2023
+CSTMR0996,Female,49,Aydin,Aegean,Standard,06-01-2023
+CSTMR0997,Female,36,Izmir,Aegean,Premium,09-04-2023
+CSTMR0998,Male,24,Istanbul,Marmara,Standard,12-10-2022
+CSTMR0999,Male,18,Bursa,Marmara,Premium,18-09-2020
+CSTMR1000,Male,69,Kocaeli,Marmara,VIP,01-04-2020
